@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/GothicA1-Bold.ttf",
+      "sha1": "8b39e91c3fd6aac90bd2f1b55516f2a8b3befebf"
+    },
+    {
+      "path": "assets/fonts/GothicA1-Medium.ttf",
+      "sha1": "5171a85d3aa69d700484e8bbbb29d985d8efabc9"
+    },
+    {
+      "path": "assets/fonts/GothicA1-Regular.ttf",
+      "sha1": "e038087309cae26259a59a3a72aa09b27277e928"
+    },
+    {
+      "path": "assets/fonts/GothicA1-SemiBold.ttf",
+      "sha1": "b4afaa459270aa2633efab41f5385bacd0c28dcb"
+    },
+    {
+      "path": "assets/fonts/Roboto_Condensed-Bold.ttf",
+      "sha1": "bfbddf1f6c0e0fcbb113e4f35fec60fa74a149ba"
+    },
+    {
+      "path": "assets/fonts/Roboto_Condensed-Medium.ttf",
+      "sha1": "6e28f96625b03352e78420c2971aafa972178e4a"
+    },
+    {
+      "path": "assets/fonts/Roboto_Condensed-Regular.ttf",
+      "sha1": "8870afc8d2c6f82cd46dac833e8dc644bf6d771e"
+    },
+    {
+      "path": "assets/fonts/Roboto_Condensed-SemiBold.ttf",
+      "sha1": "d42a31da6b171049086ebf69625e842d0029c8cd"
+    }
+  ]
+}
