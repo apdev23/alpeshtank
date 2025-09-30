@@ -8,7 +8,7 @@ import eventsListReducer from "./slice/EventsListSlice";
 const persistConfig = {
     key: 'root',
     storage: AsyncStorage,
-    whitelist: ['auth', 'wishlist', 'eventsList'],
+    whitelist: ['auth','eventsList'],
 };
 
 const rootReducer = combineReducers({
