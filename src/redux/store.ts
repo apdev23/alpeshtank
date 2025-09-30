@@ -3,7 +3,6 @@ import { persistStore, persistReducer } from 'redux-persist';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { combineReducers } from 'redux';
 import authReducer from './slice/Auth';
-import wishlistReducer from "./slice/WishlistSlice";
 import eventsListReducer from "./slice/EventsListSlice";
 
 const persistConfig = {
@@ -14,7 +13,6 @@ const persistConfig = {
 
 const rootReducer = combineReducers({
     auth: authReducer,
-    wishlist: wishlistReducer,
     eventsList: eventsListReducer,
 });
 
